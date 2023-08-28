@@ -1,5 +1,5 @@
 ---
-title: "who, what, why, where, when, and how. All about JS Functions."
+title: "who, what, why, where, when, and how. All about JavaScript Functions."
 seoTitle: "who, what, why, where, when, and how, All about JS Functions.details"
 seoDescription: "Finally a JavaScript blog that you can actually read"
 datePublished: Mon Aug 28 2023 15:11:05 GMT+0000 (Coordinated Universal Time)
@@ -396,6 +396,8 @@ It is a built-in JavaScript function that allows you to schedule the execution o
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693219862715/7c9c8961-d064-4367-96b3-085b7a14b11c.png align="center")
 
 So, now this code will run after 10 seconds. It will come in handy when we learn Async programming.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693235609341/2838f6ef-e85a-4557-9d14-656cafcad9dd.gif align="center")
 
 Now just to make it all things clear. We will improvise our previous example with setTimeout.
 
