@@ -6,6 +6,7 @@ datePublished: Mon Aug 28 2023 15:11:05 GMT+0000 (Coordinated Universal Time)
 cuid: cllv0of6k000e08jr2clp7dd6
 slug: who-what-why-where-when-and-how-all-about-js-functions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693236290450/914499a6-5b30-4e45-99e4-fd30c0d691d8.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693237290032/7e1d4cdf-4eba-4217-95f7-95eb18e69f8b.png
 tags: javascript, reactjs, javascript-framework, javascript-library, javascript-modules
 
 ---
