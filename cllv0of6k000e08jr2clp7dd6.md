@@ -5,7 +5,7 @@ seoDescription: "Finally a JavaScript blog that you can actually read"
 datePublished: Mon Aug 28 2023 15:11:05 GMT+0000 (Coordinated Universal Time)
 cuid: cllv0of6k000e08jr2clp7dd6
 slug: who-what-why-where-when-and-how-all-about-js-functions
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692934501211/2c57c4b9-6ac7-4531-a901-f5aa0d27fc50.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693236290450/914499a6-5b30-4e45-99e4-fd30c0d691d8.png
 tags: javascript, reactjs, javascript-framework, javascript-library, javascript-modules
 
 ---
