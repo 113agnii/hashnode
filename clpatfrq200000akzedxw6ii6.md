@@ -1,6 +1,6 @@
 ---
 title: "How Arrays work differently in Java?"
-seoTitle: "j"
+seoTitle: "How Arrays work differently in Java?"
 datePublished: Thu Nov 23 2023 06:31:50 GMT+0000 (Coordinated Universal Time)
 cuid: clpatfrq200000akzedxw6ii6
 slug: how-arrays-work-in-java
