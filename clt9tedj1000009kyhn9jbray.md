@@ -13,8 +13,6 @@ tags: java, stacks, dsa
 
 Stack is a linear data structure similar to `arrays` and `linked lists`, restricting the random access of elements.
 
-![A Huge Guide About Stack Data Structure - Techno Gezgin](https://technogezgin.com/en/wp-content/uploads/sites/4/2021/02/Examples-of-Stack-Data-Structure-From-Real-Life.png align="left")
-
 It is like a container of pieces that can only be stacked on top of each other and removed from that same direction. That's why Stack doesn't support traversal or random indexing.
 
 ![Stack in Java | Methods, Example Program - Scientech Easy](https://www.scientecheasy.com/wp-content/uploads/2021/01/java-stack.png align="center")
